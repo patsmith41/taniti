@@ -152,3 +152,9 @@ body {
         width: 100%;
     }
 }
+
+.nav-links a.active {
+    background-color: #7dd3f7;
+    text-decoration: underline;
+    font-weight: bold;
+}
